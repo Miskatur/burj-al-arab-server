@@ -1,0 +1,123 @@
+[
+    {
+        "roomId": 1,
+        "id": 1,
+        "title": "Deluxe Marina Suite",
+        "images": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/90/36/903654730.jpeg",
+        "features": {
+            "Amenities": "Airport Transportation",
+            "food": "Free Full Breakfast"
+        },
+        "price": 2177
+    },
+    {
+        "roomId": 2,
+        "id": 1,
+        "title": "Deluxe Palm Suite",
+        "images": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/33/20/332009476.jpeg",
+        "features": {
+            "Amenities": "Airport Transportation",
+            "food": "Free Full Breakfast"
+        },
+        "price": 2243
+    },
+    {
+        "roomId": 3,
+        "id": 1,
+        "title": "Sky Marina Suite",
+        "images": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/43/53/4353561.jpeg",
+        "features": {
+            "Amenities": "Airport Transportation",
+            "food": "Free Full Breakfast"
+        },
+        "price": 2286
+    },
+    {
+        "roomId": 4,
+        "id": 1,
+        "title": "Panoramic Suite",
+        "images": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/10/93/1093789758.jpeg",
+        "features": {
+            "Amenities": "Airport Transportation",
+            "food": "Free Full Breakfast"
+        },
+        "price": 2351
+    },
+    {
+        "roomId": 5,
+        "id": 2,
+        "title": "Club Suite",
+        "images": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/47/97/479701924.jpeg",
+        "features": {
+            "Amenities": "Airport Transportation",
+            "food": "Free Full Breakfast"
+        },
+        "price": 3473
+    },
+    {
+        "roomId": 6,
+        "id": 2,
+        "title": "Burj Two Bedroom Family Suite",
+        "images": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/uploadimages/24/09/24096414.jpeg",
+        "features": {
+            "Amenities": "Airport Transportation",
+            "food": "Free Full Breakfast"
+        },
+        "price": 3971
+    },
+    {
+        "roomId": 7,
+        "id": 2,
+        "title": "Deluxe Two Bedroom Suite",
+        "images": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/30/02/300259960.jpeg",
+        "features": {
+            "Amenities": "Airport Transportation",
+            "food": "Free Full Breakfast"
+        },
+        "price": 2177
+    },
+    {
+        "roomId": 8,
+        "id": 3,
+        "title": "Diplomatic Three Bedroom Suite",
+        "images": "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/partnerimages/66/50/665077938.jpeg",
+        "features": {
+            "Amenities": "Airport Transportation",
+            "food": "Free Full Breakfast"
+        },
+        "price": 5773
+    },
+    {
+        "roomId": 9,
+        "id": 3,
+        "title": "Burj Two Bedroom Family Suite",
+        "images": "https://images.getaroom-cdn.com/image/upload/s--ErbsdWTM--/c_limit,e_improve,fl_lossy.immutable_cache,h_940,q_auto:good,w_940/v1567619039/f5088562258196980ea99003b4553245b2cdf29b?atc=e7cd1cfa",
+        "features": {
+            "Amenities": "Airport Transportation",
+            "food": "Free Full Breakfast"
+        },
+        "price": 6966
+    },
+    {
+        "roomId": 10,
+        "id": 3,
+        "title": "Burj Two Bedroom Family Suite",
+        "images": "https://images.getaroom-cdn.com/image/upload/s--CuMjTn_9--/c_limit,e_improve,fl_lossy.immutable_cache,h_940,q_auto:good,w_940/v1567619039/851e042f1ac9b72695d4ca387b0eb5ce2c1106d5?atc=e7cd1cfa",
+        "features": {
+            "Amenities": "Airport Transportation",
+            "food": "Free Full Breakfast"
+        },
+        "price": 8254
+    },
+    {
+        "roomId": 11,
+        "id": 2,
+        "title": "SUITE KING BED WITH JACUZZI",
+        "images": "https://images.getaroom-cdn.com/image/upload/s--JacXQMeT--/c_limit,e_improve,fl_lossy.immutable_cache,h_940,q_auto:good,w_940/v1567619040/4fa70f893dbcfa9120259bada77792f8f80b2ab7?atc=e7cd1cfa",
+        "features": {
+            "Amenities": "Airport Transportation",
+            "food": "Free Full Breakfast"
+        },
+        "price": 3473
+    }
+]
